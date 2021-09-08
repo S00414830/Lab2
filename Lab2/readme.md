@@ -2,7 +2,7 @@
 
 
 ## Executive Summary 
-The purpose of Lab 2 was to learn about hardware is what you can touch. The major components are hardware, are desktop computers, laptop computers, mobile phones, tablet computers, e-readers, storage devices-flash drive, input devices like keyboards, mice, and scanners and output devices like printers and speakers. This summary includes hardware. 
+The purpose of Lab 2 was to learn about hardware is what you can touch. The major components are hardware, are desktop computers, laptop computers, mobile phones, tablet computers, e-readers, storage devices-flash drive, input devices like keyboards, mice, and scanners and output devices like printers and speakers. This summary includes hardware and data representation forms. 
 
 ## Hardware
 The major components are hardware, are desktop computers, laptop computers, mobile phones, tablet computers, e-readers, storage devices-flash drive, input devices like keyboards, mice, and scanners and output devices like printers and speakers.
@@ -17,16 +17,16 @@ Maximum latency = 60/rpm Average latency = 0.5*Latency Time	It takes about 1 sec
 What are the advantages of solid-state drives over hard disk? SSD stores data and much more reliable. Also is lighter, more durable, and more efficient the above is the advantages of SSD over a hard disk.
 
 #### Random Access Memory
- Random Access Memory stands for RAM
+ Random Access Memory stands for RAM, temporary memory. Adding additional RAM and increasing data bit paths will increase computer processing.
  
 ### ALU and the Control Unit
-The principal component of the CPU is the Arithmetic Logic Unit and Control Unit. The difference between ALU and CPU is that ALU is an electronic circuit, which is a subsystem of CPU that performs arithmetic and logical operations while a CPU is an electronic circuit that handles instructions to operate the computer The control unit controls and monitors communications between the hardware attached to the computer. It controls the input and output of data, checks that signals have been delivered successfully, and makes sure that data goes to the correct place at the correct time.
+Principal component of the CPU is the Arithmetic Logic Unit and Control Unit. The difference between ALU and CPU is that ALU is an electronic circuit, which is a subsystem of CPU that performs arithmetic and logical operations while a CPU is an electronic circuit that handles instructions to operate the computer The control unit controls and monitors communications between the hardware attached to the computer. It controls the input and output of data, checks that signals have been delivered successfully, and makes sure that data goes to the correct place at the correct time.
 
 ### CPU, Input & Output
-The CPU can also be thought as the --------of the computer? Brains.CPU process data, Input devices- like keyboards, mice, and scanners. Output device devices like printers and speakers.
+The CPU can also be thought as the --------of the computer? Brains.CPU process data, Input devices- like keyboards, mice, and scanners. Output device devices like printers and speakers. In the example of gas pumping: the CPU will be the gas pump, the input will be user gas selections and the output will be the gas entering the car.
 
 ### Logic Gates 
-A logic gate is a device performing a Boolean logic operation on one or more binary inputs and then outputs a single binary output. Computers perform more than simple Boolean logic operations on input data, and they typically output more than a single binary digit
+Logic gate is a device performing a Boolean logic operation on one or more binary inputs and then outputs a single binary output. Computers perform more than simple Boolean logic operations on input data, and they typically output more than a single binary digit. Example of logic gates representation is in truth tables.
 
 ### IEEE - Ethically Aligned Design
 First Edition is a comprehensive report that combines a conceptual framework addressing universal human values, data agency, and technical dependability with a set of principles to guide A/IS creators and users through a comprehensive set of recommendations.
@@ -42,4 +42,4 @@ Hexadecimal numbers are used on web pages to set colors. ... A color can be made
 11206911. The problem that may occur with hexadecimal color representation is individuals with color vision deficiency may not see the color. The benefit of using the hexadecimal color website it shows the color in may forms such as tone, conversions, schemes, alternatives, shades, tints and color blindness simulator. However, with the hexadecimal color representation all may understand a colors make up of red, green and blue in a consistent manner. This color representations is valuable to web designers.
 
 ## Conclusion
-Include your conclusion here...
+Is that information systems-hardware are complicated and ever evolving. As information components are hardware are desktop computers, laptop computers, mobile phones, tablet computers, e-readers, storage devices-flash drive, input devices like keyboards, mice, and scanners and output devices like printers and speakers.  it is important to stay current with new information systems use and risks. In addition data representation may come in different forma and it is important to the advantages of each form.
